@@ -2,4 +2,5 @@ This is the first change made in f1.txt after creating empty file
 This is the 2nd change making in both the f1.txt and f2.txt files together
 These are the changes made in master branch after adding the branch1 in the f1.tx
 This are the change made in branch1 notice these.
+This is to test git commit --amend.
 
