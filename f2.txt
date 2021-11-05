@@ -1,2 +1,2 @@
 THis is the change making in both the f1.txt and f2.txt after changing in the f1.txt
-
+this is another commit with amend.
